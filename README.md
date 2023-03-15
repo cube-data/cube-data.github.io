@@ -1,2 +1,7 @@
-# cube-data.github.io
-Homepage
+# CubeData.One | 一方数据
+
+CDO for short.
+
+一方数据，万物之道。
+
+> “道生一，一生二，二生三，三生万物。”——老子《道德经》第四十二章
