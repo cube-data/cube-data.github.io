@@ -1,6 +1,4 @@
-# CubeData.One | 一方数据
-
-CDO for short.
+**CDO** for short.
 
 一方数据，万物之道。
 
